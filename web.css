@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    max-width: 100px;
+}
+a{
+    text-decoration: wavy;
+    color: rgb(11, 184, 147);
+
+}
+h1{
+    background-color: rgb(102, 102, 203);
+    max-width: 400px;
+    margin: 10px 10px;
+    padding: 10px 5px ;
+}
+table{
+    background-color:rgb(167, 166, 236) ;
+}
+video{
+    width: 100px;
+}
+image{
+    padding: 10px 10px 10px 10px ;
+}
+iframe{
+    width: 900px;
+    height: 600px;
+}
